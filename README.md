@@ -1,5 +1,5 @@
 > [!WARNING]
-> This project needs maintainers, if you are interested please contact me at `me@yasbr.com`
+> This project needs maintainers, if you are interested please contact me at `github@yasbr.com`
 
 # Serpl
 
